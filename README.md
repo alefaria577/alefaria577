@@ -25,4 +25,5 @@
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
  
-- Obrigado por visitar!
+- Obrigado por visitar! : :airplane:
+
