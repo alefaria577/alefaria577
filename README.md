@@ -59,20 +59,28 @@
 
 ## *Status :*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true)
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues&theme=highcontrast)<br>
-
-<br>
-<br>
-
 <div align="center">
   <a href="https://github.com/alefaria577">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefaria577&theme=react&hide_border=false&exclude_days=Sun&locale=pt_BR" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true)
+
+</div>
+
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues&theme=highcontrast)<br>
+
+</div>
+<br>
+<br>
+
+
 
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
