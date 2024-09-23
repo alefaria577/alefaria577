@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrefariadev/)](https://www.linkedin.com/in/alexandrefariadev)
 
 
-![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577&hide=issues,stars)
+![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577&show_icons=false&hide=issues,stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&layout=donut-vertical)](https://github.com/alefaria577/github-readme-stats)
 
