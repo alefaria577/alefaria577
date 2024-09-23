@@ -4,6 +4,11 @@
 <br>
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alefaria577&label=Profile%20views&color=0e75b6&style=flat" alt="alefaria577" /> </p>
+
+<br>
+<br>
+
 ## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alefaria577)](https://github.com/alefaria577)
