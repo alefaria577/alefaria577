@@ -4,9 +4,7 @@
 
 ## Sobre mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alefaria577)](https://github.com/alefaria577)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrefariadev/)](https://www.linkedin.com/in/alexandrefariadev)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alefaria577)](https://github.com/alefaria577)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrefariadev/)](https://www.linkedin.com/in/alexandrefariadev)
 
 
 ![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577&hide_rank=true&hide=issues,stars&theme=highcontrast)
