@@ -14,9 +14,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true)
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues&theme=highcontrast)<br>
 
-
+<br>
+<br>
 
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
