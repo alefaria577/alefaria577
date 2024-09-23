@@ -66,13 +66,16 @@
 </div>
 
 <br>
-
+<br>
+<br>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true)
 
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
    
 ![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues&theme=highcontrast)
