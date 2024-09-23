@@ -11,7 +11,7 @@
 
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues)<br>
 
 ![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577&hide_rank=true&hide=issues,stars&theme=highcontrast)
 
