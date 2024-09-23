@@ -1,6 +1,6 @@
 # Bem Vindo ao meu Github!
 
-## Meu nome é Alexandre e eu estou estudando para conseguir um emprego na área de Desenvolvimento!
+## Meu nome é Alexandre e eu estou estudando para a área de Desenvolvimento!
 
 :computer: I'm Front-End Developer!
 
