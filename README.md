@@ -12,6 +12,13 @@
 
 ## Sobre mim
 
+- Desenvolvedor full stack
+- E-mail: Alexandresilvadefaria577@gmail.com
+- Ténico em Informática pela Etec da Vila Guilherme
+- 3 anos de Engenharia de Computação pela USJT
+- Cursando 2° Semestre de Engenharia de Software pela FIAP
+   
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alefaria577)](https://github.com/alefaria577)
 <br>
 <br>
