@@ -1,7 +1,7 @@
 # Bem Vindo ao meu Github!
 
 ## Meu nome é Alexandre e eu estou estudando para a área de Desenvolvimento!
-![](https://img.shields.io/badge/DESENVOLVEDOR-Alexandre-blue?style=for-the-badge&logo=appveyor)  :computer
+![](https://img.shields.io/badge/DESENVOLVEDOR-Alexandre-blue?style=for-the-badge&logo=appveyor)
 
 ## Sobre mim
 
