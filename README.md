@@ -1,6 +1,7 @@
 # Bem Vindo!
 
-### Meu nome é Alexandre e eu estou estudando para a área de Desenvolvimento!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&random=false&width=435&lines=console.log('Hello!+My+name+is+Alexandre!'))](https://git.io/typing-svg)
+
 <br>
 <br>
 
