@@ -74,7 +74,10 @@
 </div>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues&theme=highcontrast)<br>
+   
+![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues&theme=highcontrast)
+
+<br>
 
 </div>
 <br>
