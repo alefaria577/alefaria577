@@ -12,7 +12,7 @@
 
 
 [![alefaria577 GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577)](https://github.com/alefaria577/github-readme-stats)
-<img src=https://github.com/alefaria577/alefaria577/blob/master/Assets/Earth.gif width="30">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577)](https://github.com/alefaria577/github-readme-stats)
 
 
 
