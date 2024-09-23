@@ -11,6 +11,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrefariadev/)](https://www.linkedin.com/in/alexandrefariadev)
 
 
+[![alefaria577 GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577)](https://github.com/alefaria577/github-readme-stats)
+
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
