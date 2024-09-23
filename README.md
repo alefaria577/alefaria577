@@ -1,6 +1,8 @@
 # Bem Vindo!
 
 ## Meu nome é Alexandre e eu estou estudando para a área de Desenvolvimento!
+<br>
+<br>
 
 ## Sobre mim
 
