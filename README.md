@@ -10,7 +10,7 @@
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577)](https://github.com/alefaria577/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&layout=donut-vertical)](https://github.com/alefaria577/github-readme-stats)
 
 
 
