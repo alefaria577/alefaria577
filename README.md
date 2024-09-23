@@ -11,7 +11,7 @@
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true)](https://github.com/alefaria577/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true&layout=donut-vertical)](https://github.com/alefaria577/github-readme-stats)
 
 <br>
 
