@@ -11,8 +11,7 @@
 
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefaria577&hide_progress=true)
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github)<br>
 
 ![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577&hide_rank=true&hide=issues,stars&theme=highcontrast)
 
