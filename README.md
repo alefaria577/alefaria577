@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bem Vindo ao meu Github!
 
-<!--
-**alefaria577/alefaria577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Alexandre e eu estou estudando para conseguir um emprego na área de Desenvolvimento!
 
-Here are some ideas to get you started:
+:computer: I'm Front-End Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alefaria577)](https://github.com/alefaria577)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/alexandrefariadev/)]( https://www.linkedin.com/in/alexandrefariadev)
+
+
