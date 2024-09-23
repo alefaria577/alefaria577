@@ -11,10 +11,9 @@
 
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577\&rank_icon=github&hide=stars,issues&theme=highcontrast)<br>
 
-![alefaria577's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefaria577&hide_rank=true&hide=issues,stars&theme=highcontrast)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
