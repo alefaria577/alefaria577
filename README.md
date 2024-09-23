@@ -18,12 +18,6 @@
 - 3 anos de Engenharia de Computação pela USJT
 - Cursando 2° Semestre de Engenharia de Software pela FIAP
    
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alefaria577)](https://github.com/alefaria577)
-<br>
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrefariadev/)](https://www.linkedin.com/in/alexandrefariadev)
-
 <br>
 <br>
 
