@@ -12,7 +12,6 @@
 
 ## Sobre mim
 
-- Desenvolvedor full stack
 - Ténico em Informática pela Etec da Vila Guilherme
 - 3 anos de Engenharia de Computação pela USJT
 - Cursando 2° Semestre de Engenharia de Software pela FIAP
