@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-- Ténico em Desenvolvimento de Sistemas pela Etec Horácio
+- Técnico em Desenvolvimento de Sistemas pela Etec Horácio
 - Engenharia de Computação pela USJT
 - Graduando de Engenharia de Software pela FIAP
    
