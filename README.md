@@ -12,8 +12,8 @@
 
 ## Sobre mim
 
-- Ténico em Informática pela Etec da Vila Guilherme
-- 3 anos de Engenharia de Computação pela USJT
+- Ténico em Desenvolvimento de Sistemas pela Etec Horácio
+- Engenharia de Computação pela USJT
 - Graduando de Engenharia de Software pela FIAP
    
 <br>
