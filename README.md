@@ -13,7 +13,7 @@
 ## Sobre mim
 
 - Técnico em Informática pela Etec Horácio
-- Engenharia de Computação pela USJT
+- 3 anos de Engenharia de Computação pela USJT
 - Graduando de Engenharia de Software pela FIAP
    
 <br>
