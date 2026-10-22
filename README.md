@@ -1,6 +1,6 @@
 # Welcome!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=DAA520&random=false&width=435&lines=Hi!+I'm+Alexandre!;Software+Engineering+student+%40+FIAP;Python+%7C+Data+Structures+%7C+Back-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=DAA520&random=false&width=435&lines=Hi!+I'm+Alexandre!;Software+Engineering+student+at+FIAP;Python+%7C+Data+Structures+%7C+Back-end)](https://git.io/typing-svg)
 
 <br>
 <br>
