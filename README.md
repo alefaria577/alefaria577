@@ -20,7 +20,7 @@
 
 ## Featured projects
 
-<!-- ⬇️ Liberar cada linha da tabela (apagar o "<!--" do começo e o "-->" do fim) NA ORDEM em que o projeto for publicado no curso: 1º Aula 0.5, 2º Aula 5.1, 3º Aula 9.6. -->
+<!-- ⬇️ Liberar cada linha da tabela (apagar o "<!--" do começo e o "-->" do fim) NA ORDEM em que o projeto for publicado no curso: 1º Aula 0.5, 2º Aula 5.1, 3º Aula 9.6.-->
 
 | Project | What it shows | Stack |
 |---|---|---|
