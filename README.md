@@ -25,7 +25,7 @@
 | Project | What it shows | Stack |
 |---|---|---|
 | [**Challenger_React_2024_2**](https://github.com/alefaria577/Challenger_React_2024_2) | Team project at FIAP: Formula E web app with routing, forms and responsive layout | React · JavaScript · CSS |
- | [**exercicios-python-e-algoritmos**](https://github.com/alefaria577/python-algoritmos/) | 90+ Python exercises and algorithm problems organized by topic, each with automated tests | Python · pytest · GitHub Actions |
+ | [**exercicios-python-e-algoritmos**](https://github.com/alefaria577/python-algoritmos/) | Python exercises and algorithm problems organized by topic, each with automated tests | Python · pytest · GitHub Actions |
 <!-- | [**estruturas-de-dados-e-orientacao-a-objetos**](https://github.com/alefaria577/estruturas-de-dados-e-orientacao-a-objetos) | Stack, queue, linked list, BST, graph BFS/DFS and LRU cache from scratch + OOP designs, all unit-tested | Python · pytest · GitHub Actions | -->
 <!-- | [**api-blog-django**](https://github.com/alefaria577/api-blog-django) | REST API with token auth, author-only permissions, pagination, PostgreSQL and CI | Python · Django REST Framework · PostgreSQL · GitHub Actions | -->
 
