@@ -13,11 +13,7 @@
 ## About me
 
 - 🎓 Software Engineering student at **FIAP** (expected graduation: Dec 2027)
-- 🎓 3 years of Computer Engineering at **USJT** · IT Technician from **Etec Horácio**
-- 💼 Former **Junior Consultant at Cognizant**: built user interfaces and an **Einstein Bot** (customer-service chatbot) on Salesforce
-- 🏅 **Silver medal** at the Brazilian Mathematics Olympiad (OBMEP)
 - 🐍 Currently focused on **Python**, data structures & algorithms and back-end development
-- 🌎 Portuguese (native) · English (advanced, B2)
 
 <br>
 <br>
