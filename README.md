@@ -62,8 +62,7 @@
 <div align="start">
    <div style="display: flex; justify-content: center; gap:5px;"> 
       <img align="center" alt="Alexandre-GIT" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-      <img align="center" alt="Alexandre-AZURE" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
-      
+      <img align="center" alt="Alexandre-AZURE" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />  
       <img align="center" alt="Alexandre-GitHubActions" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
    </div>
 </div>
